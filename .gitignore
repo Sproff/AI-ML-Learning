@@ -1,0 +1,31 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# macOS / OS metadata
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+
+# Large datasets & archive files (recommend downloading via Kaggle API / Colab scripts)
+*.zip
+*.tar.gz
+*.parquet
+*.h5
+*.pkl
+
+# Local environment & secrets
+.env
+*.local
